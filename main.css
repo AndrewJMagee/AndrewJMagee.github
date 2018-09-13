@@ -1,0 +1,53 @@
+
+
+body	{
+		background: url(background1.jpg);
+		background-repeat: no-repeat;
+		background-size: 100%;
+		margin: 0;
+		padding: 0;
+		
+		
+		}
+h2.index{
+		font-family:Fell Great Primer SC; color: #222223
+		}
+.box	{
+		width: 100%;
+		background:rgba(0,0,0,0.4);
+		padding-top: 40px;
+		padding-bottom: 40px;
+		text-align: center;
+		margin: auto;
+		margin-top: 5%;
+		color: white;
+		font-family: Alegreya;
+		
+		
+		}
+.box-img{
+		border-radius: 100%;
+		width: 200px;
+		height:200px;
+		}
+.box h1,h5{
+		font-family: Antic;
+		}
+		
+.box p  {
+		padding-left: 20%;
+		padding-right:20% 
+		}
+		
+a:link 	{
+		color:white ;
+		text-decoration: none;
+		}
+a:hover {
+		
+		text-decoration: underline;
+		}
+a:visited{
+		color: white;
+		text-decoration: none;
+		}
